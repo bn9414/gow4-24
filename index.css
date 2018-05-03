@@ -72,7 +72,7 @@
 .switch{
         position: absolute;
     right: 40px;
-    bottom: 20px;
+    bottom: 20px;display: none;
 }
     .txt-cap{
     position: absolute;
@@ -549,6 +549,7 @@ background-size: contain;
         flex-direction: column;
         flex-wrap: wrap;
         align-items: stretch;
+    
          }
 @media (min-width:600px){
     .ser-contn{
@@ -556,6 +557,7 @@ background-size: contain;
         flex-direction: row;
         flex-wrap: wrap;
         align-items: stretch;
+        justify-content: center;
          }
     .ser-contn a{
         display: block;
@@ -849,7 +851,7 @@ display: flex;}
 
 
 
-   .hdtxt{top: 30%;right: 10px;transform: translateY(-50%)}
+   .hdtxt{top: 40%;right: 10px;transform: translateY(-50%)}
 
 
 @media screen and (min-width:350px){
@@ -885,7 +887,7 @@ display: flex;}
 
 @media screen and (min-width:900px){
         
-    .hdtxt{top: 30%;font-size: 45px;right: 10px;transform: translateY(-50%)}
+    .hdtxt{top: 40%;font-size: 45px;right: 10px;transform: translateY(-50%)}
     .sidebg{width: 410px;right: -40px;}
 
 }

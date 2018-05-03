@@ -18,10 +18,21 @@
    
 }
 .maimgcont{
-    background: url('images/home1.jpg') no-repeat;
+    background: url('images/doc.jpg') no-repeat;
     background-size:cover;
     height: 100%;
 }
+.i1{background: url('images/private.jpg') no-repeat;
+ background-size:cover;
+    height: 100%;}
+
+.i2{background: url('images/clean.jpg') no-repeat;
+ background-size:cover;
+    height: 100%;}
+
+.i3{background: url('images/visit.jpg') no-repeat;
+ background-size:cover;
+    height: 100%;}
 .mnghed{
     display: flex;
     flex-direction: row;
@@ -147,3 +158,6 @@
     }
     
 }
+
+.slide{background-image: url(images/hd4.jpg);}
+.sec1{background-image: url(images/hd4c.jpg);}
