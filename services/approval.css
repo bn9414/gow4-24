@@ -295,13 +295,13 @@ background-position:-00px;}
     box-shadow: 0 2px 8px 4px rgba(0, 0, 0, 0.1);
 }
 .ser-sshd{
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     text-align: center;
     line-height: 25px;
 }
 .icon-ser{
-  display: block;
+  display: none;
     margin-left: auto;
     margin-right: auto;
     padding:10px;
@@ -431,6 +431,6 @@ background-size: contain;
 }
 /*newser*/
 .ser-ss p{
-    font-family: 'Bamini Tamil';
-    font-size: 14px;
+    
+    font-size: 16px;
 }
