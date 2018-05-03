@@ -3,12 +3,12 @@
 
 /*fst-ban*/
 
-.slide{width: 100%; height: 450px;background-image: url(images/hd1.jpg);background-size: cover;background-repeat: no-repeat;background-position:-500px; }
+.slide{width: 100%; height: 450px;background-image: url(images/hd3.jpg);background-size: cover;background-repeat: no-repeat;background-position:-500px; }
 
 .second{width: 90%;height: auto;border: 1px olid black;margin: auto;position: relative;margin-top: -100px;background-color: white; box-shadow: 15px 20px 50px 0px rgba(20, 20, 20, 0.2);
 border: 3px olid black;overflow: hidden;margin-bottom: 50px;top:100px;opacity: 0.0; transition: opacity 1s, top 1s; 
 }
-.sec1{width:100%;height: 200px;overflow: hidden;background-image: url(images/hd1c.jpg);background-size: cover;background-repeat: no-repeat;background-position:-100px;}
+.sec1{width:100%;height: 200px;overflow: hidden;background-image: url(images/hd3c.jpg);background-size: cover;background-repeat: no-repeat;background-position:-100px;}
 .sec2 p{padding-right: 10px;}
 .sec2{width: 100%;border: none;  ;height: auto;border: 1px solid #ffffff00;
 background: #76b852;  /* fallback for old browsers */
@@ -56,7 +56,7 @@ background-position:-00px;}
 .slidehd{margin: 0px;font-size: 30px; color: white;text-align: center;padding-top: 160px;width: 80%;margin: auto;}
 
 @media screen and (min-width:700px){
-    .slidehd{width: 450px;font-size: 40px;padding-top: 100px;}
+    .slidehd{width: 550px;font-size: 40px;padding-top: 100px;}
     .slidehd span{color: #fcfcfc;font-size: 25px;}
 }
 
@@ -205,7 +205,7 @@ background-position:-00px;}
     line-height: 25px;
 }
 .icon-ser{
-  display: block;
+  display: none;
     margin-left: auto;
     margin-right: auto;
     padding:10px;
