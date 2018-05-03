@@ -351,4 +351,61 @@ body.home  .dmn1 span{width: 60px;}
 
 
 /*  ----------------- end:footer section------------------*/
-    
+/*logotag*/
+/*.logotag{
+    position: relative;
+    top: 15px;
+    left: -65px;
+   line-height: 24px;
+    text-align: center;
+}
+.logotag p,.logotag h1{
+    margin: 0;
+    color:#5BAE61
+}
+.logotag p
+{
+    font-size: 20px;
+}
+.imgtg{
+    display: flex;
+    flex-direction: row;
+}*/
+/*logotag*/
+
+
+
+/*lohgo*/
+#inlogo_m {
+    width: 200px;
+    height: 80px;
+    padding-top: 7px;
+    padding-left: 0px;
+    transform: scale(1.2)
+}
+#nav_bar {
+    height: 85px;
+}
+@media (min-width:400px) and(max-width:600px){
+    #inlogo_m {
+    width: 300px;
+    height: 80px;
+    padding-top: 7px;
+    padding-left: 0px;
+}
+}
+@media screen and (min-width: 1030px){
+#nav_bar {
+    height: 85px;
+}
+}
+@media screen and (min-width: 930px){
+#inlogo_m {
+    width: 300px;
+    height: 80px;
+    padding-top: 7px;
+    padding-left: 0px;
+    transform: scale(1);
+}
+}
+/*lohgo*/
