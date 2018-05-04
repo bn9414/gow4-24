@@ -383,14 +383,14 @@ background-size: contain;
         flex-direction: row;
         flex-wrap: wrap;
         align-items: stretch;
-            justify-content: center;
+            /*justify-content: center;*/
         padding: 80px 0;
          }
     .ser-contn a{
         display: block;
     }
     .ser-ss{
-    width:300px;
+    width:240px;
         margin-left: 21px;
         /*position: relative;*/
         top: 100px;
@@ -433,4 +433,7 @@ background-size: contain;
 .ser-ss p{
     
     font-size: 16px;
+}
+.taml{
+    font-size: 12px !important;
 }
