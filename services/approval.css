@@ -57,10 +57,10 @@ background-position:-00px;}
     
 }
 
-.slidehd{margin: 0px;font-size: 30px; color: #fcfcfc;text-align: center;padding-top: 160px;width: 80%;margin: auto;}
+.slidehd{margin: 0px;font-size:27px; color: #fcfcfc;text-align: center;padding-top: 50px;width: 95%;margin: auto;}
 
-@media screen and (min-width:700px){
-    .slidehd{width: 600px;font-size: 40px;padding-top: 100px;}
+@media screen and (min-width:800px){
+    .slidehd{width: 80%;font-size: 40px;padding-top: 100px;}
     .slidehd span{color: #fcfcfc;font-size: 25px;}
 }
 
