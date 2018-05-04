@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   $(window).load(function() {
 		// Animate loader off screen
@@ -15,6 +16,16 @@ function homeani()
 homeani();
         
 	});
+=======
+/* START: hl1 slide*/
+
+//paste this code under the head tag or in a separate js file.
+	// Wait for window load
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+    });
+>>>>>>> 0593cafd3776f78bd893d19e50fc2ce0c22e6c9b
 
 
 var n =true;
